@@ -8,8 +8,7 @@ while counter < array.length do
   counter +=1 
    end
    
-  
-return new_array
+new_array
 
 
 
