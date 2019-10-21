@@ -5,7 +5,7 @@ while counter < array.length do
   counter +=1 
 
 return new_array 
-
+  end
 
  end
  
