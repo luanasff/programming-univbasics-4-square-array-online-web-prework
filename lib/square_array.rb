@@ -10,7 +10,7 @@ while counter < array.length do
    
 new_array
 
-
+end
 
  
 
